@@ -1,0 +1,214 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Cut">
+      <i c="1" l="1635658720240" />
+    </e>
+    <e n="$Delete">
+      <i c="1" l="1635646676262" />
+    </e>
+    <e n="$Redo">
+      <i c="10" l="1635878548821" />
+    </e>
+    <e n="$Undo">
+      <i c="174" l="1635878546365" />
+    </e>
+    <e n="Android.ExportProjectZip">
+      <i c="9" l="1635865663740" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1650855270716" />
+    </e>
+    <e n="ContextHelp">
+      <i c="1" l="1632873691314" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1635719759721" />
+    </e>
+    <e n="CopyReferencePopup">
+      <i c="1" l="1635719756774" />
+    </e>
+    <e n="Debug">
+      <i c="19" l="1635737182151" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="568" l="1635878482116" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1635649571492" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="4" l="1635654204058" />
+    </e>
+    <e n="EditorCopy">
+      <i c="15" l="1635657536008" />
+    </e>
+    <e n="EditorCut">
+      <i c="7" l="1635657424376" />
+    </e>
+    <e n="EditorDelete">
+      <i c="6" l="1635877901211" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1635649185267" />
+    </e>
+    <e n="EditorDown">
+      <i c="300" l="1635654043834" />
+    </e>
+    <e n="EditorEnter">
+      <i c="59" l="1635878468791" />
+    </e>
+    <e n="EditorEscape">
+      <i c="3" l="1635654085588" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1635649784891" />
+    </e>
+    <e n="EditorLeft">
+      <i c="36" l="1635650878659" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="9" l="1635877907533" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1635650883236" />
+    </e>
+    <e n="EditorPaste">
+      <i c="20" l="1635657537152" />
+    </e>
+    <e n="EditorRight">
+      <i c="85" l="1635878475611" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1635653625291" />
+    </e>
+    <e n="EditorTab">
+      <i c="29" l="1635657539264" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="1" l="1635631029758" />
+    </e>
+    <e n="EditorUp">
+      <i c="6" l="1635654043410" />
+    </e>
+    <e n="Exit">
+      <i c="9" l="1635973123567" />
+    </e>
+    <e n="FileChooser.GotoProject">
+      <i c="1" l="1635723072916" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1635655428881" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1635641618766" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="17" l="1635656438149" />
+    </e>
+    <e n="MakeGradleProject">
+      <i c="10" l="1635878553174" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1635641468318" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1635629394152" />
+    </e>
+    <e n="Pause">
+      <i c="1" l="1635737298699" />
+    </e>
+    <e n="Replace">
+      <i c="2" l="1635655259529" />
+    </e>
+    <e n="Resume">
+      <i c="31" l="1635737357477" />
+    </e>
+    <e n="Run">
+      <i c="45" l="1635879309361" />
+    </e>
+    <e n="SaveAll">
+      <i c="177" l="1635878550333" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1632873614880" />
+    </e>
+    <e n="StepInto">
+      <i c="8" l="1635656703338" />
+    </e>
+    <e n="StepOut">
+      <i c="11" l="1635655643324" />
+    </e>
+    <e n="StepOver">
+      <i c="48" l="1635737355731" />
+    </e>
+    <e n="Stop">
+      <i c="22" l="1635878551416" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="16" l="1635656669560" />
+    </e>
+    <e n="WelcomeScreen.AndroidStudio.apkProfilingAndDebugging">
+      <i c="1" l="1632871921451" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1632871676049" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1632872069967" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidAvdManager">
+      <i c="1" l="1650855278399" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="1" l="1632871697727" />
+    </e>
+    <e n="XDebugger.CopyValue">
+      <i c="2" l="1635656191772" />
+    </e>
+    <e n="XDebugger.NewWatch">
+      <i c="1" l="1632873133419" />
+    </e>
+    <e n="XDebugger.RemoveWatch">
+      <i c="2" l="1635656708380" />
+    </e>
+    <e n="android.deploy.CodeSwap">
+      <i c="1" l="1632874490947" />
+    </e>
+    <e n="com.android.tools.idea.appinspection.ide.ui.SelectProcessAction">
+      <i c="1" l="1632872843295" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="4" l="1635649081003" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="15" l="1632873001457" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="12" l="1635655449734" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction">
+      <i c="10" l="1635655261218" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="23" l="1635733108877" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1635641621911" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$5$1">
+      <i c="1" l="1632102478999" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="5" l="1635723093679" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="4" l="1650855242526" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenActionsUtil$1">
+      <i c="1" l="1650855275714" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="9" l="1635656591657" />
+    </e>
+  </component>
+</application>

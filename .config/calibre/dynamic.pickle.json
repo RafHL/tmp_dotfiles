@@ -1,0 +1,23 @@
+{
+  "add books dialog dir": "/home/rafe/Documents/Books",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "database location dialog": "/home/rafe/Calibre Library",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "6.12"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "iphone",
+  "welcome_wizard_was_run": true
+}

@@ -1,0 +1,168 @@
+[KFileDialog Settings]
+Recent Files[$e]=2021-08-28 22-22-21.mkv,file:$HOME/Videos/2023-12-05_16-08-57.mkv,file:$HOME/Videos/2023-11-27_19-40-27.mkv,file:$HOME/Videos/2023-11-14_17-50-11.mkv,file:$HOME/eee6744/experiment8/fig/expt08_part01_q08_watermark.png,file:$HOME/eee6744/experiment8/fig/expt08_part01_q08_state0.png,file:$HOME/Videos/2023-11-02_16-49-48.mkv,file:$HOME/Videos/2023-11-01_01-21-01.mkv,file:$HOME/Videos/2023-10-28_01-10-34.mkv,file:$HOME/Videos/2023-10-24_22-51-48.mkv,file:$HOME/Music/Rafael/Joomba.m4a,file:$HOME/Videos/2023-10-23_16-54-29.mkv,file:$HOME/Videos/2023-10-18_22-18-35.mkv,file:$HOME/Videos/2023-10-01_18-49-05.mkv,file:$HOME/Videos/2023-09-28_07-35-11.mkv,file:$HOME/Videos/eee6744_exp0.webm
+Recent URLs[$e]=file:$HOME/,file:$HOME/.wkspc/mem_dbg/,file:$HOME/Documents/Zoom/2022-11-22 18.09.59 Rafael's Zoom Meeting/,file:$HOME/Documents/Zoom/2022-11-29 15.34.11 Jacob Rook's Zoom Meeting/,file:$HOME/Documents/fate_extra/iso_contents/PSP_GAME/USRDIR/MOVIE/,file:$HOME/Videos/,file:$HOME/Music/Rafael/,file:$HOME/eee6744/experiment7/fig/,file:$HOME/eee6744/experiment8/fig/,file:$HOME/Documents/fa23/eee6744/experiment10/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+2560x1440 screen: Height=1398
+2560x1440 screen: Width=2560
+2560x1440 screen: XPosition=0
+2560x1440 screen: YPosition=42
+HDMI-1=HDMI-1
+HDMI-1 Height 2560x1440=1318
+HDMI-1 Height 2560x1440 HDMI-1=1416
+HDMI-1 Width 2560x1440=2560
+HDMI-1 Width 2560x1440 HDMI-1=1278
+HDMI-1 XPosition 2560x1440=0
+HDMI-1 XPosition 2560x1440 HDMI-1=1281
+HDMI-1 YPosition 2560x1440=122
+HDMI-1 YPosition 2560x1440 HDMI-1=23
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAADZfwCAAAAAfwAAAHxAAADZQAAANEBAAAd+gAAAAECAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAALMBAAAC+wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAAB+AQAAAgAAAAIAAAoAAAABzfwBAAAADvsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAABgAQAAA/sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABqAQAAA/wAAAAAAAABowAAAIsA////+gAAAAABAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAFwBAAAD+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAEAQAAA/sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAQBAAAD+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMBAAAAAP////8AAABXAQAAA/sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAAWwEAAAP8AAABpAAAA50AAAFEAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMsBAAAC+wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAE/AQAAA/sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAACUAQAAAvwAAAVCAAADnAAAAUQA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAywEAAAL7AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAI4BAAAC+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABTgEAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAAC6AQAAA/sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAAC0AQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABXQEAAAP7AAAAEAB0AGUAeAB0AGUAZABpAHQAAAAAAP////8AAAGyAQAAA/sAAAASAHQAaQBtAGUAcgBlAG0AYQBwAQAACN8AAAEhAAAAYAEAAAP7AAAADABnAHUAaQBkAGUAcwAAAAAA/////wAAANoBAAAD+wAAABAAYgBpAG4AXwBjAGwAaQBwAAAAAAD/////AAABlAEAAAP7AAAAHgBvAG4AbABpAG4AZQByAGUAcwBvAHUAcgBjAGUAcwAAAAAA/////wAAAUEBAAADAAAIpQAAA2UAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAYAGUAeAB0AHIAYQBUAG8AbwBsAEIAYQByAAAAAp3/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Media Browser]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+View Style=DetailTree
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Videos/,$HOME/Music/Rafael/,$HOME/Videos
+KdenliveFramesFolder[$e]=$HOME/eee6744/experiment8/fig/,$HOME/eee6744/experiment7/fig/,$HOME/eel5934/Video/
+KdenliveProjectsFolder[$e]=$HOME/Videos,$HOME/eel5934/Video,$HOME/Documents/honkai/DieShouri/video
+
+[Recent Files]
+File1[$e]=$HOME/Videos/EEL5733_Ass6b.kdenlive
+File10[$e]=$HOME/Videos/eee6744_expt11.kdenlive
+File2[$e]=$HOME/Videos/TeriTeriDaishouri.kdenlive
+File3[$e]=$HOME/Documents/honkai/DieShouri/video/DieShouriVideo.kdenlive
+File4[$e]=$HOME/eel5934/Video/IoTproject.kdenlive
+File5[$e]=$HOME/Videos/eel5479_paper_review.kdenlive
+File6[$e]=$HOME/Videos/eee5716_invisiblefinger.kdenlive
+File7[$e]=$HOME/Videos/joomba.kdenlive
+File8[$e]=$HOME/Videos/eee6744_expt8.kdenlive
+File9[$e]=$HOME/Videos/eee6744_expt10.kdenlive
+Name1[$e]=EEL5733_Ass6b.kdenlive
+Name10[$e]=eee6744_expt11.kdenlive
+Name2[$e]=TeriTeriDaishouri.kdenlive
+Name3[$e]=DieShouriVideo.kdenlive
+Name4[$e]=IoTproject.kdenlive
+Name5[$e]=eel5479_paper_review.kdenlive
+Name6[$e]=eee5716_invisiblefinger.kdenlive
+Name7[$e]=joomba.kdenlive
+Name8[$e]=eee6744_expt8.kdenlive
+Name9[$e]=eee6744_expt10.kdenlive
+
+[RenderWidget]
+showoptions=true
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorScheme=Breeze Dark
+ColorSchemePath=BreezeDark.colors
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAACAAAAEYAAAAHAAAAPAAAAAYAAAArAAAABQAAAFoAAAAEAAAANwAAAAMAAAA/AAAAAgAAAG0AAAABAAAAPgAAAPcAAAAJAQEAAQAAAAAAAAAAAAAAAHH/////AAAAgQAAAAAAAAAJAAAA9wAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAD3
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+defaultaudiocapture=0
+detectedv4ldevices=4294967295
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+kdenliverendererpath[$e]=/usr/bin/kdenlive_render
+lastCacheCheck=2023,11,27,19,57,16.783
+mediainfopath[$e]=/usr/bin/mediainfo
+meltpath[$e]=/usr/bin/melt-7
+mltpath[$e]=/usr/share/mlt-7/profiles
+rendererpath[$e]=/usr/bin/melt-7
+
+[project]
+SupportedHWCodecs=h264_nvenc,hevc_nvenc,h264_vaapi,hevc_vaapi
+externalProxyProfile=./;GL;.LRV;./;GX;.MP4
+transcodeFriendly=Lossless (Huge files)
+
+[sdl]
+blackmagic_output_device=-1
+preferredcomposite=qtblend
+
+[settings]
+dialogSize=1024,700
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[timeline]
+trackheight=67
+
+[unmanaged]
+consumerslist=jack,decklink,avformat,xml,qglsl,blipflash,cbrts,multi,null,sdl2,sdl2_audio,sdl,sdl_audio,sdl_preview,sdl_still
+default_profile=atsc_1080p_2997
+defaultrescaleheight=540
+defaultrescalewidth=960
+force_breeze=true
+guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
+monitor_audio=false
+producerslist=decklink,avformat,avformat-novalidate,xml,xml-string,xml-nogl,qimage,qtext,kdenlivetitle,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,blipflash,count,pgm,vorbis,framebuffer,abnormal,blank,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,pango,pixbuf,glaxnimate
+project_fps=29.97002997002997
+properties_panel_page=1
+showOnMonitorScene=false
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=23.08.3

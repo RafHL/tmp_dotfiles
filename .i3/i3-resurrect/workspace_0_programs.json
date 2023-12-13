@@ -1,0 +1,41 @@
+[
+  {
+    "command": [
+      "urxvt"
+    ],
+    "working_directory": "/home/rafe/Documents/fa23/eee6744/experiment10"
+  },
+  {
+    "command": [
+      "/usr/bin/xreader",
+      "/home/rafe/Documents/fa23/eee6744/experiment10/Experiment_10_scan_protection.pdf"
+    ],
+    "working_directory": "/home/rafe"
+  },
+  {
+    "command": [
+      "urxvt"
+    ],
+    "working_directory": "/home/rafe/Documents/fa23/eee6744/experiment10"
+  },
+  {
+    "command": [
+      "urxvt"
+    ],
+    "working_directory": "/home/rafe/Documents/fa23/eee6744"
+  },
+  {
+    "command": [
+      "/usr/bin/xreader",
+      "eee6744_exp10_RafaelHernandezLopez.pdf",
+      "Experiment_10_scan_protection.pdf"
+    ],
+    "working_directory": "/home/rafe"
+  },
+  {
+    "command": [
+      "/usr/lib/firefox/firefox"
+    ],
+    "working_directory": "/home/rafe"
+  }
+]

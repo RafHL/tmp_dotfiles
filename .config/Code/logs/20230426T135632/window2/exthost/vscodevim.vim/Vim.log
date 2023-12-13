@@ -1,0 +1,75 @@
+2023-04-26 13:56:33.954 [info] Configuration changed
+2023-04-26 13:56:33.954 [info] Configuration changed
+2023-04-26 13:56:33.957 [info] Configuration changed
+2023-04-26 13:56:34.284 [info] Configuration changed
+2023-04-26 13:56:34.297 [info] Configuration changed
+2023-04-26 13:57:38.573 [info] Configuration changed
+2023-04-26 13:57:45.102 [info] Active editor: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex
+2023-04-26 13:59:14.699 [info] Active editor: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex
+2023-04-26 13:59:57.632 [info] Searching for apple
+2023-04-26 14:00:04.199 [info] Searching for udp
+2023-04-26 14:00:07.805 [info] Executing :w
+2023-04-26 14:00:17.498 [info] Executing :w
+2023-04-26 14:03:55.849 [info] Active editor: vscode://defaultsettings/defaultSettings.json
+2023-04-26 14:04:04.879 [info] Searching for esc
+2023-04-26 14:05:08.798 [info] /defaultSettings.json closed
+2023-04-26 14:05:08.805 [info] Active editor: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex
+2023-04-26 14:05:12.417 [info] Executing :help
+2023-04-26 14:05:25.701 [info] Executing :q
+2023-04-26 14:05:27.465 [info] Executing :q
+2023-04-26 14:05:47.385 [info] Executing :ehlp
+2023-04-26 14:05:47.398 [error] Error running task: Error: Failed to handle key `
+`: nvim_buf_set_lines: Buffer is not 'modifiable'
+2023-04-26 14:05:56.564 [info] Executing :help off
+2023-04-26 14:05:56.587 [error] Error executing cmd=help off. err=Error: nvim_buf_set_lines: Buffer is not 'modifiable'.
+2023-04-26 14:05:58.528 [info] Executing :q
+2023-04-26 14:06:03.437 [info] Executing :q!
+2023-04-26 14:06:03.496 [info] /home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex closed
+2023-04-26 14:06:03.498 [info] /home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex.git closed
+2023-04-26 14:06:04.458 [warning] getLineLength() called with out-of-bounds line 0
+2023-04-26 14:06:04.458 [warning] invalid cursor position. [[0, 13] | [0, 13]].
+2023-04-26 14:06:56.137 [info] /settings/default closed
+2023-04-26 14:06:56.192 [info] /settings/resourceLanguage closed
+2023-04-26 14:06:56.193 [info] /ignoredSettings closed
+2023-04-26 14:06:56.224 [info] /launch closed
+2023-04-26 14:06:56.225 [info] /token-styling closed
+2023-04-26 14:06:56.226 [info] /textmate-colors closed
+2023-04-26 14:06:56.232 [info] /workbench-colors closed
+2023-04-26 14:07:47.832 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:07:47.859 [info] Configuration changed
+2023-04-26 14:07:51.023 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:07:51.041 [info] Configuration changed
+2023-04-26 14:07:58.823 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:07:58.842 [info] Configuration changed
+2023-04-26 14:08:15.765 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:08:15.798 [info] Configuration changed
+2023-04-26 14:08:24.467 [info] Active editor: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex
+2023-04-26 14:08:51.475 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:08:51.495 [info] Configuration changed
+2023-04-26 14:08:58.500 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:08:58.517 [info] Configuration changed
+2023-04-26 14:09:06.153 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:09:06.172 [info] Configuration changed
+2023-04-26 14:09:11.501 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 14:09:11.524 [info] Configuration changed
+2023-04-26 14:09:39.315 [info] Executing :w
+2023-04-26 14:09:39.927 [info] Executing :w
+2023-04-26 14:10:13.796 [info] Executing :w
+2023-04-26 14:10:36.258 [info] Executing :w
+2023-04-26 14:10:52.230 [info] Executing :w
+2023-04-26 14:12:30.354 [info] Active editor: vscode-userdata:/home/rafe/.config/Code/User/settings.json
+2023-04-26 14:12:30.710 [info] Configuration changed
+2023-04-26 14:12:34.920 [warning] invalid cursor position. [[9, 8] | [9, 8]].
+2023-04-26 14:12:34.920 [warning] invalid cursor position. [[9, 8] | [9, 8]].
+2023-04-26 14:13:00.881 [info] Executing :w
+2023-04-26 14:13:01.139 [info] Configuration changed
+2023-04-26 14:13:06.797 [info] Active editor: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex
+2023-04-26 14:13:40.890 [warning] invalid cursor stop position. [59, 391].
+2023-04-26 14:13:40.890 [warning] invalid cursor start position. [59, 391].
+2023-04-26 14:13:40.890 [warning] invalid cursor position. [[59, 391] | [59, 391]].
+2023-04-26 14:13:43.381 [info] Executing :w
+2023-04-26 14:13:48.278 [info] Executing :w
+2023-04-26 14:13:54.098 [info] Executing :w
+2023-04-26 14:13:54.939 [info] Executing :w
+2023-04-26 14:14:13.083 [info] Executing :w
+2023-04-26 14:14:13.682 [info] Executing :w

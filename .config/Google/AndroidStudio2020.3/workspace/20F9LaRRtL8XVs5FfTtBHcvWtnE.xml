@@ -1,0 +1,376 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/java/edu/ufl/cise/os/p2/P2Activity.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="754">
+                <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/native-calls.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="754">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#337#380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/displayfile/read_file.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>char*</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/CMakeLists.txt" />
+      <option value="$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/java/edu/ufl/cise/os/p2/P2.java" />
+      <option value="$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/displayfile/read_file.cpp" />
+      <option value="$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/native-calls.cpp" />
+      <option value="$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/java/edu/ufl/cise/os/p2/P2Activity.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="cpp" type="9a30073f:AndroidJniFolderNode" />
+            </path>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="cpp" type="9a30073f:AndroidJniFolderNode" />
+              <item name="cpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="cpp" type="9a30073f:AndroidJniFolderNode" />
+              <item name="cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="displayfile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="P2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2" commandHistoryFileName="history-2" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18648209" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Build Variants" order="6" side_tool="true" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5008143" side_tool="true" visible="true" weight="0.3155834" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32932693" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.34455755" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49918568" visible="true" weight="0.3155834" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Logcat" order="6" weight="0.32811275" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32798716" />
+      <window_info anchor="bottom" id="Services" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" weight="0.32889584" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.32737613" />
+      <window_info anchor="bottom" id="Layout Inspector" order="11" side_tool="true" weight="0.34455755" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.32772437" />
+      <window_info anchor="bottom" id="Find" order="13" />
+      <window_info anchor="bottom" id="App Inspection" order="14" weight="0.32852563" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Device File Explorer" order="2" side_tool="true" weight="0.32980457" />
+      <window_info anchor="right" id="Android Emulator" order="3" side_tool="true" weight="0.32980457" />
+    </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1438" y="473" width="952" height="519" key="#PSD" timestamp="1635663651353">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1438" y="473" width="952" height="519" key="#PSD/0.0.2560.1440@0.0.2560.1440" timestamp="1635663651353" />
+    <state width="565" height="109" key="DebuggerActiveHint" timestamp="1635656195878">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="565" height="109" key="DebuggerActiveHint/0.0.2560.1440@0.0.2560.1440" timestamp="1635656195878" />
+    <state x="1672" y="365" width="470" height="538" key="FileChooserDialogImpl" timestamp="1635865689735">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1672" y="365" width="470" height="538" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1635865689735" />
+    <state width="1228" height="381" key="GridCell.Tab.0.bottom" timestamp="1635879311622">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1228" height="381" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1635879311622" />
+    <state width="1228" height="381" key="GridCell.Tab.0.center" timestamp="1635879311617">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1228" height="381" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1635879311617" />
+    <state width="1228" height="381" key="GridCell.Tab.0.left" timestamp="1635879311616">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1228" height="381" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1635879311616" />
+    <state width="1228" height="381" key="GridCell.Tab.0.right" timestamp="1635879311621">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1228" height="381" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1635879311621" />
+    <state width="2510" height="375" key="GridCell.Tab.1.bottom" timestamp="1635741325034">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2510" height="375" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1635741325034" />
+    <state width="2510" height="375" key="GridCell.Tab.1.center" timestamp="1635741325034">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2510" height="375" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1635741325034" />
+    <state width="2510" height="375" key="GridCell.Tab.1.left" timestamp="1635741325034">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2510" height="375" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1635741325034" />
+    <state width="2510" height="375" key="GridCell.Tab.1.right" timestamp="1635741325034">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2510" height="375" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1635741325034" />
+    <state x="1583" y="410" width="672" height="678" key="search.everywhere.popup" timestamp="1635641621915">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1583" y="410" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1635641621915" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>env-&gt;GetStringUTFChars(filename, nullptr)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/java/edu/ufl/cise/os/p2/P2.java" />
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/app/Activity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-4622">
+            <caret line="708" column="13" selection-start-line="708" selection-start-column="13" selection-end-line="708" selection-end-column="21" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1/__string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/displayfile/displayfile.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/jni.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="846" selection-start-line="846" selection-end-line="846" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/displayfile/read_file.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#49#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/java/lang/System.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="379">
+            <caret line="1667" column="23" selection-start-line="1667" selection-start-column="23" selection-end-line="1667" selection-end-column="23" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/androidTest/java/edu/ufl/cise/os/p2/ExampleInstrumentedTest.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="260">
+            <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/test/java/edu/ufl/cise/os/p2/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="234">
+            <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/bits/fortify/fcntl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/res/layout/activity_p2.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/java/edu/ufl/cise/os/p2/P2Activity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="754">
+            <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/native-calls.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#337#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/src/main/cpp/displayfile/read_file.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/fa21/cop4600/P2/P2/nativeapp/P2/app/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

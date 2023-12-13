@@ -1,0 +1,7 @@
+# GIMP gimp-text-tool options
+
+(palette "Color History")
+(font "Arial")
+(font-size 24)
+
+# end of gimp-text-tool options

@@ -1,0 +1,44 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/cop4600/Ex4/Ex4-Kotlin-Skeleton">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Ex4-Kotlin-Skeleton – Ex4Activity.kt [Ex4-Kotlin-Skeleton.app]" projectWorkspaceId="1yn0dOY15QCsjzCqYAlDSQTSdz8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7678000" />
+              <option name="buildTimestamp" value="1630014795485" />
+              <frame x="0" y="91" width="1280" height="1349" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1632872132584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cop4600/Ex4/Ex4-Java-Skeleton">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Ex4-Java-Skeleton – Ex4Activity.java [Ex4-Java-Skeleton.app]" projectWorkspaceId="1yn2yUfgUTzVfJyzX3JScD6QJlw">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7678000" />
+              <option name="buildTimestamp" value="1630014795485" />
+              <frame x="854" y="91" width="853" height="1349" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1632873285985" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cop4600/P2/P2/nativeapp/P2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="P2 – P2Activity.java [P2.app]" projectWorkspaceId="20F9LaRRtL8XVs5FfTtBHcvWtnE">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7678000" />
+              <option name="buildTimestamp" value="1630014819895" />
+              <frame x="1280" y="42" width="1280" height="1398" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1635629413192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

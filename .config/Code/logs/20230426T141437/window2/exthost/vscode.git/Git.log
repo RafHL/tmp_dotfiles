@@ -1,0 +1,25 @@
+2023-04-26 14:14:39.214 [info] Log level: Info
+2023-04-26 14:14:39.214 [info] Validating found git in: "git"
+2023-04-26 14:14:39.214 [info] Using git "2.40.0" from "git"
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-04-26 14:14:39.214 [info] Open repository: /home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [19ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-26 14:14:39.214 [info] > git config --get commit.template [17ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-26 14:14:39.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [17ms]
+2023-04-26 14:14:39.214 [info] > git status -z -uall [9ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [14ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [14ms]
+2023-04-26 14:14:39.214 [info] > git config --get commit.template [31ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-26 14:14:39.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [6ms]
+2023-04-26 14:14:39.214 [info] > git status -z -uall [7ms]
+2023-04-26 14:14:39.214 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-26 14:14:39.748 [info] > git show --textconv :report/eel5632_report_Autogators.tex [23ms]
+2023-04-26 14:14:39.748 [info] > git check-ignore -v -z --stdin [2ms]
+2023-04-26 14:14:39.749 [info] > git ls-files --stage -- /home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex [16ms]
+2023-04-26 14:14:39.758 [info] > git cat-file -s 6b984f5bd23dd708878ba7b694ef16172ad5db29 [2ms]

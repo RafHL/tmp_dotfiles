@@ -1,0 +1,9 @@
+# GIMP gimp-crop-tool options
+
+(overridden-fixed-aspect yes)
+(shrink-merged yes)
+(pattern "Pine")
+(fill-type white)
+(delete-pixels yes)
+
+# end of gimp-crop-tool options

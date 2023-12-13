@@ -1,0 +1,4 @@
+2023-04-25 21:52:01.520 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rafe/.vscode-oss/extensions
+2023-04-25 21:52:01.581 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/rafe/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/rafe/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-04-25 21:52:01.581 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rafe/.vscode-oss/extensions
+2023-04-25 21:52:01.796 [info] Starting worker process with pid 61601 (type: fileWatcher, window: 1).

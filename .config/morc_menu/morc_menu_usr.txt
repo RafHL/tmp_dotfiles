@@ -1,0 +1,173 @@
+Accessories---About xfce---xfce4-about
+Accessories---Balenaetcher---"/usr/bin/balena-etcher-electron"
+Accessories---Clipit---clipit
+Accessories---Document viewer---xreader
+Accessories---File manager pcmanfm---pcmanfm
+Accessories---Hp device manager---hp-toolbox
+Accessories---Ipython---terminal -e terminal -e ipython
+Accessories---Klipper---klipper
+Accessories---Kvantum manager---kvantummanager
+Accessories---Mousepad---mousepad
+Accessories---Neovim---terminal -e nvim
+Accessories---Nitrogen---nitrogen
+Accessories---Picom---picom
+Accessories---Software token (small)---stoken-gui --small
+Accessories---Software token---stoken-gui
+Accessories---Vim---terminal -e vim
+Accessories---Welcome center---plasma-welcome
+Accessories---Xarchiver---xarchiver
+Accessories---Xfburn---xfburn
+Audio---Ffado mixer---ffado-mixer
+Audio---Helvum---helvum
+Audio---Hydrogen---hydrogen
+Audio---Musicbrainz picard---picard
+Audio---Qjackctl---qjackctl
+Audio---Qpwgraph---qpwgraph
+Audio---Qsynth---qsynth
+Audio---Reaper---"/opt/REAPER/reaper"
+Audio---Rosegarden---rosegarden
+Audio---Spotify (launcher)---spotify-launcher
+Audio---Transcribe!---transcribe
+Audio---Volume icon---volumeicon
+Development---Android studio---android-studio
+Development---Cmake---cmake-gui
+Development---Cuttlefish---cuttlefish
+Development---Electron 12---electron12
+Development---Electron 19---electron19
+Development---Electron 25---electron25
+Development---Fluid---fluid
+Development---Ipython---terminal -e ipython
+Development---Jupyter nbclassic---terminal -e jupyter-nbclassic
+Development---Jupyter notebook---terminal -e jupyter-notebook
+Development---Jupyterlab---terminal -e jupyter-lab
+Development---Modelsim-intel fpga starter edition---/opt/intelFPGA/20.1/modelsim_ase/bin/vsim -gui -l /dev/null
+Development---Plasma engine explorer---plasmaengineexplorer
+Development---Plasma global theme explorer---lookandfeelexplorer
+Development---Plasma theme explorer---plasmathemeexplorer
+Development---Qt assistant---assistant
+Development---Qt designer---designer
+Development---Qt linguist---linguist
+Development---Qt qdbusviewer---qdbusviewer
+Development---Quartus prime lite---/opt/intelFPGA/21.1/quartus/bin/quartus --64bit
+Development---Questa-intel fpga starter edition---/opt/intelFPGA/21.1/questa_fse/bin/vsim -gui -l /dev/null
+Development---Userfeedback console---UserFeedbackConsole
+Development---Waveforms---/usr/bin/waveforms
+Documentation---Qt assistant---assistant
+Education---Jupyter nbclassic---terminal -e terminal -e jupyter-nbclassic
+Education---Jupyter notebook---terminal -e terminal -e jupyter-notebook
+Education---Jupyterlab---terminal -e terminal -e jupyter-lab
+Education---Libreoffice math---libreoffice --math
+Education---Waveforms---/usr/bin/waveforms
+Graphics---Blender---blender
+Graphics---Gcolor2---gcolor2
+Graphics---Gnu image manipulation program---gimp-2.10
+Graphics---Libreoffice draw---libreoffice --draw
+Graphics---Rnote---rnote
+Graphics---Synfig studio---synfigstudio
+Graphics---Viewnior---viewnior
+Graphics---Xdvi---xdvi
+Graphics---Yed graph editor---yed
+IDE---Android studio---android-studio
+IDE---Cuttlefish---cuttlefish
+IDE---Plasma engine explorer---plasmaengineexplorer
+IDE---Plasma global theme explorer---lookandfeelexplorer
+Internet---Avahi ssh server browser---/usr/bin/bssh
+Internet---Avahi vnc server browser---/usr/bin/bvnc
+Internet---Chromium---/usr/bin/chromium
+Internet---Discord ptb---/usr/bin/discord-ptb
+Internet---Discord---/usr/bin/discord
+Internet---Firefox web browser---/usr/lib/firefox/firefox
+Internet---Globalprotect vpn---env QT_AUTO_SCREEN_SCALE_FACTOR=1 /usr/bin/gpclient
+Internet---Hexchat---hexchat --existing
+Internet---Microsoft teams - preview---teams
+Internet---Pale moon---palemoon
+Internet---Tigervnc viewer---/usr/bin/vncviewer
+Internet---X2go client---x2goclient
+Internet---Zoom---/usr/bin/zoom
+Multimedia---Cheese---cheese
+Multimedia---Ffado mixer---ffado-mixer
+Multimedia---Helvum---helvum
+Multimedia---Hydrogen---hydrogen
+Multimedia---Kdenlive---kdenlive
+Multimedia---Musicbrainz picard---picard
+Multimedia---Obs studio---obs
+Multimedia---Qjackctl---qjackctl
+Multimedia---Qpwgraph---qpwgraph
+Multimedia---Qsynth---qsynth
+Multimedia---Qt v4l2 test utility---qv4l2
+Multimedia---Qt v4l2 video capture utility---qvidcap
+Multimedia---Reaper---"/opt/REAPER/reaper"
+Multimedia---Rosegarden---rosegarden
+Multimedia---Spotify (launcher)---spotify-launcher
+Multimedia---Vlc media player---/usr/bin/vlc --started-from-file
+Multimedia---Volume icon---volumeicon
+Multimedia---Xfburn---xfburn
+Office---Calibre---calibre --detach
+Office---E-book editor---ebook-edit --detach
+Office---E-book viewer---ebook-viewer --detach
+Office---Epdfviewer---epdfview
+Office---Libreoffice base---libreoffice --base
+Office---Libreoffice calc---libreoffice --calc
+Office---Libreoffice draw---libreoffice --draw
+Office---Libreoffice impress---libreoffice --impress
+Office---Libreoffice math---libreoffice --math
+Office---Libreoffice writer---libreoffice --writer
+Office---Libreoffice---libreoffice
+Office---Lrf viewer---lrfviewer
+Settings---Add/remove software---pamac-manager
+Settings---Advanced network configuration---nm-connection-editor
+Settings---Arandr---arandr
+Settings---Bluetooth adapters---blueman-adapters
+Settings---Bluetooth manager---blueman-manager
+Settings---Chocolate setup---chocolate-setup
+Settings---Customize look and feel---lxappearance
+Settings---Desktop preferences---pcmanfm --desktop-pref
+Settings---Firewall configuration---gufw
+Settings---Helvum---helvum
+Settings---Ibus preferences---ibus-setup
+Settings---Kde system settings---systemsettings5
+Settings---Keyboard and mouse---lxinput
+Settings---Kvantum manager---kvantummanager
+Settings---Login window---pkexec lightdm-settings
+Settings---Manjaro notifier settings---msm_notifier --settings
+Settings---Manjaro settings manager---manjaro-settings-manager
+Settings---Notifications---xfce4-notifyd-config
+Settings---Power manager---xfce4-power-manager-settings
+Settings---Preferred applications---libfm-pref-apps
+Settings---Qt5 settings---qt5ct
+Settings---System settings---systemsettings
+Settings---Text editor settings---mousepad --preferences
+System---Add/remove software---pamac-manager
+System---Applications (bauh)---/usr/bin/bauh
+System---Applications (bauh-tray)---/usr/bin/bauh-tray
+System---Avahi zeroconf browser---/usr/bin/avahi-discover
+System---Conky---conky --daemonize --pause=1
+System---Crashed processes viewer---drkonqi-coredump-gui
+System---Discover---plasma-discover
+System---File manager pcmanfm---pcmanfm
+System---Gparted---/usr/bin/gparted
+System---Hardware locality lstopo---lstopo
+System---Htop---terminal -e htop
+System---Info center---kinfocenter
+System---Login window---pkexec lightdm-settings
+System---Lshw---/usr/sbin/gtk-lshw
+System---Manage printing---xdg-open http://localhost:631/
+System---Manjaro hello---/usr/bin/manjaro-hello
+System---Menu editor---kmenuedit
+System---Oracle vm virtualbox---VirtualBox
+System---Ranger---terminal -e ranger
+System---System monitor---plasma-systemmonitor
+System---Toolbox---terminal -e bmenu
+System---Urxvt (client)---urxvtc
+System---Urxvt (tabbed)---urxvt-tabbed
+System---Urxvt---urxvt
+System---Uxterm---uxterm
+System---Virtual machine manager---virt-manager
+System---Virtual network editor---/usr/bin/vmware-netcfg
+System---Vmware player---/usr/bin/vmplayer
+System---Vmware workstation---/usr/bin/vmware
+System---Xterm---xterm
+Video---Cheese---cheese
+Video---Helvum---helvum
+Video---Qpwgraph---qpwgraph
+Video---Reaper---"/opt/REAPER/reaper"

@@ -1,0 +1,7 @@
+2023-04-26 13:42:57.700 [info] Getting Manifest... vscodevim.vim
+2023-04-26 13:42:57.706 [info] Installing extension: vscodevim.vim
+2023-04-26 13:42:58.597 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2023-04-26 13:42:58.640 [info] Extracted extension to /home/rafe/.vscode/extensions/.65ec7654-2f09-45b9-8d33-b8a0daf6e656: vscodevim.vim
+2023-04-26 13:42:58.644 [info] Renamed to /home/rafe/.vscode/extensions/vscodevim.vim-1.25.2
+2023-04-26 13:42:58.646 [info] Extracting extension completed. vscodevim.vim
+2023-04-26 13:42:58.656 [info] Extension installed successfully: vscodevim.vim

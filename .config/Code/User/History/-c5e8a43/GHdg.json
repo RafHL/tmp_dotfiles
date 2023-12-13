@@ -1,0 +1,6 @@
+{
+    "window.zoomLevel": 1,
+    "vim.enableNeovim": true,
+    "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+    "vim.neovimPath": "/usr/bin/nvim"
+}

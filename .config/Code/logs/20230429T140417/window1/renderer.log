@@ -1,0 +1,111 @@
+2023-04-29 14:04:17.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-29 14:04:17.620 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-29 14:04:17.620 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-29 14:04:17.620 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-29 14:04:18.810 [error] [Extension Host] (node:5443) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-04-29 14:04:23.890 [info] [perf] Render performance baseline is 23ms
+2023-04-29 14:26:15.957 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8086)
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8788)
+    at m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:25113)
+    at m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24540)
+    at f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26373)
+    at v.$tryApplyWorkspaceEdit (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1578:4251)
+    at m.N (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:15228)
+    at m.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:14946)
+    at m.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:14039)
+    at m.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:13177)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:11808
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at u.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:556:15210)
+    at G.onmessage (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1691:1489)
+2023-04-29 14:26:15.957 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:28:07.905 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:28:07.905 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:28:09.141 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:28:09.141 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:28:47.357 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:28:47.357 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:29:13.505 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:29:13.505 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:29:13.764 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:29:13.764 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:29:25.544 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:29:25.545 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:30:16.894 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8086)
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8788)
+    at m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:25113)
+    at m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24540)
+    at f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26373)
+    at v.$tryApplyWorkspaceEdit (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1578:4251)
+    at m.N (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:15228)
+    at m.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:14946)
+    at m.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:14039)
+    at m.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:13177)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:11808
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at u.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:556:15210)
+    at G.onmessage (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1691:1489)
+2023-04-29 14:30:16.894 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:31:06.150 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8086)
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8788)
+    at m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:25113)
+    at m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24540)
+    at f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26373)
+    at v.$tryApplyWorkspaceEdit (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1578:4251)
+    at m.N (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:15228)
+    at m.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:14946)
+    at m.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:14039)
+    at m.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:13177)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1593:11808
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at u.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:556:15210)
+    at G.onmessage (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1691:1489)
+2023-04-29 14:31:06.150 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 14:31:24.758 [error] Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+    at a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:758:8906)
+    at async m.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24982)
+    at async m.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:24529)
+    at async f.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:26365)
+2023-04-29 14:31:24.758 [warning] IGNORING workspace edit: Error: file:///home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex has changed in the meantime
+2023-04-29 15:35:24.304 [error] Unable to read file '/home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex' (Error: File not modified since): Error: Unable to read file '/home/rafe/Documents/sp23/EEL5632/final_project/V2X_Example/report/eel5632_report_Autogators.tex' (Error: File not modified since)
+    at r.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:620:17681)
+    at r.v (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:620:17513)
+    at async m.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:37294)
+    at async m.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:36989)
+    at async js.Ab (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:54274)
+    at async js.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:52679)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:33034

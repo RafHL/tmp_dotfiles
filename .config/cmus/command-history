@@ -1,0 +1,11 @@
+pl-create witch_holy_night
+pl-create alice_bops
+add Music/WitchHolyNight_repetition
+update-cache -f
+add ~/Music/WitchHolyNight
+add -r ~/Music/WitchHolyNight
+scan
+add ~/Music
+add Music/
+add Music
+q

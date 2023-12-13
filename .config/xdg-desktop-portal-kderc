@@ -1,0 +1,8 @@
+[FileDialogSize]
+2560x1440 screen: Height=776
+2560x1440 screen: Width=1304
+
+[KFileDialog Settings]
+Recent Files[$e]=Midterm_RafaelHernandezLopez_2023-10-09.pdf,file:$HOME/.i3/config.txt,file:$HOME/Downloads/Midterm_RafaelHernandezLopez_2023-10-09.pdf
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/.i3/
+detailViewIconSize=16

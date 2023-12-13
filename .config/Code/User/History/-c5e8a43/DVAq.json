@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "vim.enableNeovim": true,
+    "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+    "vim.neovimPath": "/usr/bin/nvim",
+    "vim.neovimUseConfigFile": true,
+    "vim.vimrc.enable": true,
+    "workbench.colorTheme": "Monokai Dimmed"
+}

@@ -1,0 +1,19 @@
+2023-04-26 13:42:47.094 [info] Extension host with pid 132049 started
+2023-04-26 13:42:47.201 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-26 13:42:47.203 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-26 13:42:47.232 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-26 13:42:47.244 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-26 13:42:47.269 [info] Eager extensions activated
+2023-04-26 13:42:47.272 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-26 13:42:47.288 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-26 13:42:47.289 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-26 13:42:47.293 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onStartupFinished'
+2023-04-26 13:42:49.593 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-26 13:42:58.793 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: '*'
+2023-04-26 13:42:59.915 [error] Error: ENOENT: no such file or directory, open '/home/rafe/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-04-26 13:54:40.318 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-26 13:54:40.321 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-26 13:54:40.335 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-26 13:56:30.190 [info] Extension host terminating: renderer closed the MessagePort
+2023-04-26 13:56:30.224 [error] Error: ENOENT: no such file or directory, open '/home/rafe/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-04-26 13:56:30.225 [info] Extension host with pid 132049 exiting with code 0

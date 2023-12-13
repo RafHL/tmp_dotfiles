@@ -1,0 +1,81 @@
+Accessories---About xfce---xfce4-about
+Accessories---Clipit---clipit
+Accessories---Compton---compton
+Accessories---File manager pcmanfm---pcmanfm
+Accessories---File manager---exo-open --launch FileManager
+Accessories---Hp device manager---hp-toolbox
+Accessories---Kvantum manager---kvantummanager
+Accessories---Mousepad---mousepad
+Accessories---Neovim---terminal -e nvim
+Accessories---Nitrogen---nitrogen
+Accessories---Picom---picom
+Accessories---Software token (small)---stoken-gui --small
+Accessories---Software token---stoken-gui
+Accessories---Terminal emulator---exo-open --launch TerminalEmulator
+Accessories---Vim---terminal -e vim
+Accessories---Xarchiver---xarchiver
+Accessories---Xfburn---xfburn
+Audio---Volume icon---volumeicon
+Education---Libreoffice math---libreoffice --math
+Graphics---Gcolor2---gcolor2
+Graphics---Gnu image manipulation program---gimp-2.10
+Graphics---Libreoffice draw---libreoffice --draw
+Graphics---Viewnior---viewnior
+Internet---Avahi ssh server browser---/usr/bin/bssh
+Internet---Avahi vnc server browser---/usr/bin/bvnc
+Internet---Discord---/usr/bin/discord
+Internet---Firefox---/usr/lib/firefox/firefox
+Internet---Hexchat---hexchat --existing
+Internet---Mail reader---exo-open --launch MailReader
+Internet---Pale moon---palemoon
+Internet---Web browser---exo-open --launch WebBrowser
+Internet---Zoom---/usr/bin/zoom
+Multimedia---Qt v4l2 test utility---qv4l2
+Multimedia---Qt v4l2 video capture utility---qvidcap
+Multimedia---Vlc media player---/usr/bin/vlc --started-from-file
+Multimedia---Volume icon---volumeicon
+Multimedia---Xfburn---xfburn
+Office---Epdfviewer---epdfview
+Office---Libreoffice base---libreoffice --base
+Office---Libreoffice calc---libreoffice --calc
+Office---Libreoffice draw---libreoffice --draw
+Office---Libreoffice impress---libreoffice --impress
+Office---Libreoffice math---libreoffice --math
+Office---Libreoffice writer---libreoffice --writer
+Office---Libreoffice---libreoffice
+Settings---Add/remove software---pamac-manager
+Settings---Advanced network configuration---nm-connection-editor
+Settings---Arandr---arandr
+Settings---Bluetooth adapters---blueman-adapters
+Settings---Bluetooth manager---blueman-manager
+Settings---Customize look and feel---lxappearance
+Settings---Desktop preferences---pcmanfm --desktop-pref
+Settings---Firewall configuration---gufw
+Settings---Keyboard and mouse---lxinput
+Settings---Kvantum manager---kvantummanager
+Settings---Login window---pkexec lightdm-settings
+Settings---Manjaro notifier settings---msm_notifier --settings
+Settings---Manjaro settings manager---manjaro-settings-manager
+Settings---Power manager---xfce4-power-manager-settings
+Settings---Preferred applications---exo-preferred-applications
+Settings---Preferred applications---libfm-pref-apps
+Settings---Qt5 settings---qt5ct
+System---Add/remove software---pamac-manager
+System---Applications (bauh)---/usr/bin/bauh
+System---Applications (bauh-tray)---/usr/bin/bauh-tray
+System---Avahi zeroconf browser---/usr/bin/avahi-discover
+System---Conky---conky --daemonize --pause=1
+System---File manager pcmanfm---pcmanfm
+System---Gparted---/usr/bin/gparted
+System---Hardware locality lstopo---lstopo
+System---Htop---terminal -e htop
+System---Login window---pkexec lightdm-settings
+System---Lshw---/usr/sbin/gtk-lshw
+System---Manage printing---/usr/bin/xdg-open http://localhost:631/
+System---Manjaro hello---/usr/bin/manjaro-hello
+System---Ranger---terminal -e ranger
+System---Urxvt (client)---urxvtc
+System---Urxvt (tabbed)---urxvt-tabbed
+System---Urxvt---urxvt
+System---Uxterm---uxterm
+System---Xterm---xterm

@@ -1,0 +1,19 @@
+2023-04-26 13:54:40.370 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:54:40.377 [info] Configuration changed
+2023-04-26 13:54:56.941 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:18.684 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:18.691 [info] Configuration changed
+2023-04-26 13:55:37.113 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:37.122 [info] Configuration changed
+2023-04-26 13:55:39.463 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:39.470 [info] Configuration changed
+2023-04-26 13:55:41.056 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:41.067 [info] Configuration changed
+2023-04-26 13:55:51.106 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:51.116 [info] Configuration changed
+2023-04-26 13:55:51.123 [error] Invalid neovimPath. spawnSync /usr/ EACCES.
+2023-04-26 13:55:54.882 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:54.890 [info] Configuration changed
+2023-04-26 13:55:54.896 [error] Invalid neovimPath. spawnSync /usr/bin/nvimn ENOENT.
+2023-04-26 13:55:55.939 [info] /home/rafe/.config/Code/User/settings.json closed
+2023-04-26 13:55:55.945 [info] Configuration changed

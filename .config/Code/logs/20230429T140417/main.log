@@ -1,0 +1,22 @@
+2023-04-29 14:04:17.099 [info] [SharedProcess] using utility process
+2023-04-29 14:04:17.148 [info] update#setState idle
+2023-04-29 14:04:17.883 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-04-29 14:04:17.886 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-29 14:04:17.890 [info] [UtilityProcess type: shared-process, pid: 5423]: successfully created
+2023-04-29 14:04:17.890 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 5424]: successfully created
+2023-04-29 14:04:17.945 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-04-29 14:04:17.949 [info] [UtilityProcess id: 1, type: extensionHost, pid: 5443]: successfully created
+2023-04-29 14:04:47.149 [info] update#setState checking for updates
+2023-04-29 14:04:47.235 [info] update#setState idle
+2023-04-29 15:04:47.153 [info] update#setState checking for updates
+2023-04-29 15:04:47.652 [info] update#setState idle
+2023-04-29 16:04:47.156 [info] update#setState checking for updates
+2023-04-29 16:04:47.700 [info] update#setState idle
+2023-04-29 16:59:24.457 [info] [UtilityProcess id: 1, type: extensionHost, pid: 5443]: waiting to exit...
+2023-04-29 16:59:24.457 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 5424]: attempting to kill the process...
+2023-04-29 16:59:24.458 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 5424]: successfully killed the process
+2023-04-29 16:59:24.464 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 5424]: received exit event with code 15
+2023-04-29 16:59:24.465 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-04-29 16:59:24.465 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5424]: crashed with code 15 and reason 'killed'
+2023-04-29 16:59:25.738 [info] [UtilityProcess id: 1, type: extensionHost, pid: 5443]: received exit event with code 0
+2023-04-29 16:59:25.739 [info] Extension host with pid 5443 exited with code: 0, signal: unknown.

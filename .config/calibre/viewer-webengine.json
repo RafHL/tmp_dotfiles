@@ -1,0 +1,85 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1161,
+      "width": 2255,
+      "x": 0,
+      "y": 107
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1161,
+      "width": 2255,
+      "x": 0,
+      "y": 107
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1161,
+      "width": 2255,
+      "x": 0,
+      "y": 107
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAawAACM4AAATzAAAAAAAAAGsAAAjOAAAE8wAAAAAAAAAACM8AAAAAAAAAawAACM4AAATz"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.1354166666666667,
+      "geometry_in_logical_pixels": {
+        "height": 1268,
+        "width": 2255,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "HDMI-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1268,
+        "width": 2255
+      },
+      "virtual_geometry": {
+        "height": 1268,
+        "width": 2255,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACEAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANIA////AAAIzwAABIkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/home/rafe/Calibre Library/Unknown/66228574-0949-4AF4-B357-3DBB65C063D0.epub (3)/66228574-0949-4AF4-B357-3DBB65C063D0.epub - Unknown.epub",
+        "pathtoebook": "/home/rafe/Calibre Library/Unknown/66228574-0949-4AF4-B357-3DBB65C063D0.epub (3)/66228574-0949-4AF4-B357-3DBB65C063D0.epub - Unknown.epub",
+        "timestamp": "2023-02-07T04:22:08.872Z",
+        "title": "66228574-0949-4AF4-B357-3DBB65C063D0.epub"
+      },
+      {
+        "authors": [
+          "The Rising of the Shield Hero Vol 1"
+        ],
+        "key": "/home/rafe/Calibre Library/The Rising of the Shield Hero Vol 1/Yusagi, Aneko (2)/Yusagi, Aneko - The Rising of the Shield Hero Vol 1.epub",
+        "pathtoebook": "/home/rafe/Calibre Library/The Rising of the Shield Hero Vol 1/Yusagi, Aneko (2)/Yusagi, Aneko - The Rising of the Shield Hero Vol 1.epub",
+        "timestamp": "2023-02-07T04:16:27.919Z",
+        "title": "Yusagi, Aneko"
+      }
+    ]
+  }
+}
